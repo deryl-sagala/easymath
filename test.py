@@ -1,3 +1,3 @@
 import mathboost
 
-print(mathboost.fib(10))
+print(pow(24, 29))
